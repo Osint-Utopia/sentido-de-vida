@@ -1,0 +1,32 @@
+{
+    "siteTitle": "Centro de Tratamientos en Adicciones - Sentido de Vida",
+    "logoText": "Centro de Tratamientos en Adicciones",
+    "contactPhone": "3331962135",
+    "contactLink": "tel:3331962135",
+    "questions": [
+        {
+            "question": "¿Crees que alguien en tu hogar usa sustancias frecuentemente?",
+            "yesRedirect": "https://www.facebook.com/ClinicaenadiccionesSentidoDeVidaGDL/",
+            "noRedirect": "https://clinicasentidodevida.com.mx/"
+        },
+        {
+            "question": "¿Han cambiado sus hábitos recientemente?",
+            "yesRedirect": "https://www.facebook.com/ClinicaenadiccionesSentidoDeVidaGDL/",
+            "noRedirect": "https://clinicasentidodevida.com.mx/"
+        },
+        {
+            "question": "¿Sientes que necesitas ayuda profesional?",
+            "yesRedirect": "https://www.facebook.com/ClinicaenadiccionesSentidoDeVidaGDL/",
+            "noRedirect": "https://clinicasentidodevida.com.mx/"
+        },
+        {
+            "question": "¿Has notado conductas autodestructivas?",
+            "yesRedirect": "https://www.facebook.com/ClinicaenadiccionesSentidoDeVidaGDL/",
+            "noRedirect": "https://clinicasentidodevida.com.mx/"
+        }
+    ],
+    "footer": {
+        "text": "Centro de Tratamientos en Adicciones - Sentido de Vida",
+        "address": "Camino a las Islas #11, Pueblos de la Barranca, Zapotlanejo, Jalisco"
+    }
+}

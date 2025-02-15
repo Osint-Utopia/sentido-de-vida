@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    color: #333;
+}
+header {
+    background-color: #3b5998;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+.grid-item {
+    background-color: #ffffff;
+    border: 2px solid #ffa500;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.grid-item h3 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+.grid-item button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+.grid-item .yes {
+    background-color: #3b5998;
+    color: white;
+}
+.grid-item .no {
+    background-color: #ffa500;
+    color: white;
+}
+.cta {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #ffa500;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+footer {
+    margin-top: 20px;
+    background-color: #3b5998;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
